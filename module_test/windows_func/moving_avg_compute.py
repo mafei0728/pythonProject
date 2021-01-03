@@ -5,7 +5,7 @@ import math
 3  # @Time : 2020/12/10 19:41
 4  # @Author : mafei0728
 5  # @Version：V 0.1
-6  # @File : Test01.py
+6  # @File : moving_avg_compute.py
 7  # @desc :
 from pyspark.sql import SparkSession
 from pyspark.sql import functions as f
